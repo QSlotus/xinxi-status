@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'XuanSan';  /* 定义字体名称，可以任意取名 */
-    src: url('../webfonts/xuansan.woff2') format('woff');  /* 替换成你的字体文件路径和格式 */
+    src: url('../webfonts/xuansan.ttf') format('truetype');  /* 替换成你的字体文件路径和格式 */
     /* 可以添加其他字体格式，以提供跨浏览器兼容性，比如 woff2, ttf, 或 otf */
 }
 
